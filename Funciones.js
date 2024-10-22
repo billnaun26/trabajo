@@ -67,3 +67,4 @@ function Criculo (Pi,Rd){
 }
 console.log ("El Area Del Criculo Es:")
 console.log (Criculo(3.1416,7))
+console.log (Criculo(3.14,19))
